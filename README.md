@@ -109,11 +109,7 @@ Acceptance Criteria define specific conditions a feature must meet to be accepte
 - **GitHub**: To manage version control and collaborate.
 - **Draw.io**: To create the Use Case Diagram.
 
----
 
-## Project Summary
-
-This project demonstrates the fundamental role of **Requirement Analysis** in successful software delivery. By clearly identifying both functional and non-functional needs, illustrating use cases, and setting acceptance standards, we ensure alignment between technical teams and business goals.
 
 
 
